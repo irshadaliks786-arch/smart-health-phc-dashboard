@@ -1,0 +1,29 @@
+medicine_name,deficit_phc,days_to_stockout,deficit_qty,surplus_phc,transfer_qty,priority,same_district
+Antihypertensive (Amlodipine),PHC_002,1.0,38,PHC_015,38,HIGH,False
+ORS Sachets,PHC_014,1.0,150,PHC_009,150,HIGH,True
+ORS Sachets,PHC_015,1.0,150,PHC_010,150,HIGH,True
+Anti-Rabies Vaccine,PHC_003,1.0,12,PHC_013,12,HIGH,True
+ORS Sachets,PHC_012,1.0,150,PHC_011,150,HIGH,False
+ORS + Zinc combo,PHC_001,1.0,45,PHC_011,45,HIGH,True
+ASHA Delivery Kit,PHC_012,1.0,15,PHC_007,15,HIGH,True
+ORS + Zinc combo,PHC_012,1.0,45,PHC_002,45,HIGH,True
+Antihypertensive (Amlodipine),PHC_003,1.0,38,PHC_008,38,HIGH,True
+Paracetamol 500mg,PHC_011,1.0,75,PHC_006,75,HIGH,True
+Amoxicillin 250mg,PHC_006,1.0,60,PHC_011,60,HIGH,True
+Anti-Rabies Vaccine,PHC_009,1.0,12,PHC_004,12,HIGH,True
+Paracetamol 500mg,PHC_009,1.0,75,PHC_014,75,HIGH,True
+Insulin (vial),PHC_008,1.0,22,PHC_013,22,HIGH,True
+ORS + Zinc combo,PHC_008,1.0,45,PHC_003,45,HIGH,True
+ASHA Delivery Kit,PHC_003,1.0,15,PHC_008,14,HIGH,True
+Anti-Rabies Vaccine,PHC_015,3.0,12,PHC_005,12,HIGH,True
+Measles Vaccine,PHC_005,3.0,18,PHC_015,18,HIGH,True
+ORS + Zinc combo,PHC_010,3.0,45,PHC_015,45,HIGH,True
+Insulin (vial),PHC_007,4.0,21,PHC_012,18,HIGH,True
+ORS Sachets,PHC_007,6.0,150,PHC_011,150,MEDIUM,False
+ASHA Delivery Kit,PHC_002,9.0,5,PHC_007,5,MEDIUM,True
+Insulin (vial),PHC_003,9.0,22,PHC_013,22,MEDIUM,True
+Measles Vaccine,PHC_003,10.0,18,PHC_008,18,MEDIUM,True
+Amoxicillin 250mg,PHC_010,12.0,60,PHC_005,60,LOW,True
+ORS + Zinc combo,PHC_004,12.0,43,PHC_015,43,LOW,False
+Amoxicillin 250mg,PHC_003,13.0,43,PHC_013,43,LOW,True
+ORS + Zinc combo,PHC_014,14.0,16,PHC_015,16,LOW,False

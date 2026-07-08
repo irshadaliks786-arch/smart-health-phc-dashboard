@@ -1,0 +1,2 @@
+phc_id,stock_score,bed_score,attendance_score,test_score,footfall_score,composite_kpi_score,district,chc_parent,flag_status
+PHC_015,84.77777777777777,68.88888888888889,92.64069264069265,77.44444444444444,98.88888888888889,84.5,Karnal,CHC_Karnal,🔴 UNDERPERFORMING
