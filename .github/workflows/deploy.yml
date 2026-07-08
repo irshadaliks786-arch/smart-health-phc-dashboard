@@ -35,7 +35,11 @@ jobs:
 
       - name: Build
         working-directory: frontend
+        env:
+          VITE_API_BASE_URL: https://smart-health-phc-dashboard.onrender.com
         run: npm run build
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
